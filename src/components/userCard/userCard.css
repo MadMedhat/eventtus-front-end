@@ -1,0 +1,21 @@
+.userCard{
+  min-height: 72px;
+  max-height: 10%;
+  max-width: 25%;
+}
+
+.img-container {
+  display: inline-block;
+  margin-right: 3px;
+  background: #fff;
+  width: 25%;
+}
+#userPhoto {
+  width: 60px;
+  height: auto;
+  border-radius: 50% !important;
+  vertical-align: middle;
+}
+.seperator {
+  border-bottom: 1px solid #f4f5f5;
+}
